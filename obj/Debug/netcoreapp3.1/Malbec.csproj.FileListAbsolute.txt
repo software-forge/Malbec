@@ -1,0 +1,9 @@
+C:/Users/rafal/Desktop/Malbec/Malbec/obj/Debug/netcoreapp3.1/Malbec.csprojAssemblyReference.cache
+C:/Users/rafal/Desktop/Malbec/Malbec/obj/Debug/netcoreapp3.1/Malbec.AssemblyInfoInputs.cache
+C:/Users/rafal/Desktop/Malbec/Malbec/obj/Debug/netcoreapp3.1/Malbec.AssemblyInfo.cs
+C:/Users/rafal/Desktop/Malbec/Malbec/obj/Debug/netcoreapp3.1/Malbec.csproj.CoreCompileInputs.cache
+C:/Users/rafal/Desktop/Malbec/Malbec/bin/Debug/netcoreapp3.1/Malbec.deps.json
+C:/Users/rafal/Desktop/Malbec/Malbec/bin/Debug/netcoreapp3.1/Malbec.dll
+C:/Users/rafal/Desktop/Malbec/Malbec/bin/Debug/netcoreapp3.1/Malbec.pdb
+C:/Users/rafal/Desktop/Malbec/Malbec/obj/Debug/netcoreapp3.1/Malbec.dll
+C:/Users/rafal/Desktop/Malbec/Malbec/obj/Debug/netcoreapp3.1/Malbec.pdb
